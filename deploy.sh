@@ -29,5 +29,5 @@ else
 fi
 
 git add www/src/config.js
-git commit -m 'Frontend config update'
+git commit -m 'Frontend config update!'
 git push

@@ -47,7 +47,7 @@ Kiến trúc một ứng dụng quản lý công việc sử dụng phi máy ch�
 
 * AmplifyRole - IAM role cho phép Amplify Console để thực hiện các hành động xây dựng và triển khai
 
-## Kết quả triên khai
+## Kết quả triển khai
 
 Giao diện
 
@@ -95,7 +95,7 @@ Chi phí bao gồm:
 
 Tổng cộng (monthly): 53.65 USD
 
-(*) Chưa tính dịch vụ Cognito và Amplify
+(*) Chưa tính phí dịch vụ của Route53, Cognito và Amplify.
 
 ![AWS Pricing Calculator](images/7.jpg)
 

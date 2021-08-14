@@ -99,6 +99,8 @@ Tổng cộng (monthly): 53.65 USD
 
 ![AWS Pricing Calculator](images/7.jpg)
 
+https://calculator.aws/#/estimate?id=0e458f90df4ecbe033acf07f65750f67765af089
+
 ## Kết luận
 
 Nhờ tận dụng được các dịch vụ sẵn có của AWS, ứng dụng có thể được triển khai nhanh chóng, developer có thể tập trung phát triển logic để tạo ra sự khác biệt cho khách hàng mà không cần phải bận tâm quá nhiều tới hạ tầng.
